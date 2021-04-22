@@ -15,4 +15,10 @@
         <item name="android:textSize">48sp</item>
     </style>
 
+    <!--Estilo Labels para Background escuros -->
+    <style name="lable_dark_background" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">@android:color/white</item>
+        <!--item name="android:textStyle">bold</item-->
+    </style>
+
 </resources>
